@@ -1,1 +1,1 @@
-# Counterfactual-instance-centric
+# Counterfactual-prototype
